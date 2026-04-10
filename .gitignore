@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+reports/*.html
+reports/*.json
+!reports/.gitkeep
+logs/*.jsonl
+rules/threat_intel_ips.json

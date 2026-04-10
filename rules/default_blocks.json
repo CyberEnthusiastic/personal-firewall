@@ -1,0 +1,23 @@
+[
+  {
+    "type": "block_port",
+    "id": "MALWARE-PORTS",
+    "name": "Known malware/C2 ports",
+    "severity": "CRITICAL",
+    "ports": [4444, 5555, 6666, 31337, 12345, 54321, 1337, 9999]
+  },
+  {
+    "type": "block_port",
+    "id": "MINING-PORTS",
+    "name": "Known cryptomining pool ports",
+    "severity": "CRITICAL",
+    "ports": [3333, 7777, 8332, 8333, 9332, 14444, 14433]
+  },
+  {
+    "type": "block_ip",
+    "id": "KNOWN-BAD-IPS",
+    "name": "Manually curated known-bad IPs (update regularly)",
+    "severity": "HIGH",
+    "ips": []
+  }
+]
