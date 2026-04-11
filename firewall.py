@@ -16,7 +16,7 @@ Architecture:
   - Logs violations to JSONL + generates HTML report
   - Runs as background daemon (--daemon flag) or interactive mode
 
-Author: Mohith (Adithya) Vasamsetti (CyberEnthusiastic)
+Author: Mohith Vasamsetti (CyberEnthusiastic)
 License: Proprietary — see LICENSE
 """
 import argparse
