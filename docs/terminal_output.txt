@@ -1,0 +1,13 @@
+
+  Personal Firewall v1.0
+  Copyright (c) 2026 Mohith Vasamsetti
+  https://github.com/CyberEnthusiastic
+  Licensed for personal use only. See LICENSE for terms.
+
+[*] Updating threat intelligence feeds...
+  [+] ipsum_l3: 15374 IPs
+  [+] feodo: 15375 IPs
+  [+] Saved 15375 blocked IPs to threat_intel_ips.json
+[*] Active connections: 172
+[*] Alerts: 0
+  [OK] No suspicious connections detected.

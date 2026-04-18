@@ -32,6 +32,20 @@ scan, continuous monitor, or persistent Windows service.
 
 ---
 
+## Screenshots (ran locally, zero setup)
+
+**Terminal output** - exactly what you see on the command line:
+
+![Terminal output](docs/screenshots/terminal.png)
+
+**Interactive HTML dashboard** - opens in any browser, dark-mode, filterable:
+
+![HTML report](docs/screenshots/report.png)
+
+Both screenshots are captured from a real local run against the bundled samples. Reproduce them with the quickstart commands below.
+
+---
+
 ## Why you want this
 
 | | **Personal Firewall** | GlassWire | Little Snitch | ZoneAlarm |
